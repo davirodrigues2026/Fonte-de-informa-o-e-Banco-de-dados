@@ -2,7 +2,7 @@
 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 ## Apresentação em equipe utilizando software de design gráfico.
 ### Apresentação confeccionada utilizando software gráfico "Canva".
-Nesta apresentação, foi abordado alguns temas de interresse da equipe, com uma dinâmica ao final com os temas abordados.
+Nesta apresentação, realizada no dia 21/02/2026, foi abordado alguns temas de interresse da equipe, com uma dinâmica ao final com os temas abordados.
 
 [Apresentação introdutória 21/02- .pdf](https://github.com/user-attachments/files/25647541/Copia.de.Apresentacao.-.GPI.pdf)
 
