@@ -1,6 +1,8 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
+##
+
 ### 📅 21/02/2026 - Apresentação confeccionada utilizando software gráfico "Canva".
 📌 Nesta apresentação, realizada no dia 21/02/2026, foi abordado alguns temas de interresse da equipe, com uma dinâmica ao final com os temas abordados.
 
