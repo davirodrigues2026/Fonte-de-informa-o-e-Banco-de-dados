@@ -3,6 +3,12 @@
 
 ##
 
+### 📅 06/03/2026 - Desenvolvimento de habilidades técnicas - PROCV no Microsoft Excel
+📌 Nesta atividade, realizada no dia 06/03/2026, iniciamos o desenvolvimento de habilidades práticas no programa Excel, fundamental para análise e tratamento de dados. Nesta aula, utilizamos um relatório de receitas do portal de transparência da prefeitura de São José dos Campos. Com este relatório, desenvolvi uma tabela para fazer a análise de alguns dados.
+
+<img width="733" height="413" alt="image" src="https://github.com/user-attachments/assets/87e2ee80-998a-4248-b3b7-74b214f92df2" />
+
+##
 
 ### 📅 06/03/2026 - Apresentação de primeiro "Backlog" desenvolvido pela metodologia "Scrum"
 📌 Nesta apresentação, realizada no dia 06/03/2026, apresentamos para nossa cliente o desenvolvimento de sua solicitação, um vestido de noiva. Foi desenvolvido o backlog do desenvolvimento das ideias e os vestidos.
