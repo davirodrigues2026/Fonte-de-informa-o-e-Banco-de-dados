@@ -3,6 +3,13 @@
 
 ##
 
+### 📅 12/03/2026 - Aprimoramentos visuais no tratamento de dados - Microsoft Excel
+📌 Nesta atividade, realizada no dia 12/03/2026, realizamos melhorias visuais no gráfico trabalhado na aula anterior com novos conceitos apresentados em sala, pelo vídeo: 31 dicas sobre Visualização de dados - Baseado no livro "StoryTelling com dados"
+
+foto aqui
+
+##
+
 ### 📅 06/03/2026 - Desenvolvimento de habilidades técnicas - PROCV no Microsoft Excel
 📌 Nesta atividade, realizada no dia 06/03/2026, iniciamos o desenvolvimento de habilidades práticas no programa Excel, fundamental para análise e tratamento de dados. Nesta aula, utilizamos um relatório de receitas do portal de transparência da prefeitura de São José dos Campos. Com este relatório, desenvolvi uma tabela para fazer a análise de alguns dados.
 
@@ -23,6 +30,11 @@
 📌 Nesta apresentação, realizada no dia 21/02/2026, foi abordado alguns temas de interresse da equipe, com uma dinâmica ao final com os temas abordados.
 
 [Apresentação introdutória 21/02- .pdf](https://github.com/user-attachments/files/25647541/Copia.de.Apresentacao.-.GPI.pdf)
+
+
+
+
+
 
 <img width="733" height="413" alt="image" src="https://github.com/user-attachments/assets/76922bed-d223-4bc5-80d5-567b7f307448" />
 
