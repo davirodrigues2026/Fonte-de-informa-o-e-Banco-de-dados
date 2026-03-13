@@ -6,7 +6,7 @@
 ### 📅 12/03/2026 - Aprimoramentos visuais no tratamento de dados - Microsoft Excel
 📌 Nesta atividade, realizada no dia 12/03/2026, realizamos melhorias visuais no gráfico trabalhado na aula anterior com novos conceitos apresentados em sala, pelo vídeo: 31 dicas sobre Visualização de dados - Baseado no livro "StoryTelling com dados"
 
-ADICIONAR FOTO AQUI
+<img width="733" height="413" alt="image" src="https://github.com/user-attachments/assets/3a519e51-975e-4651-9e2d-61b53b4dd144" />
 
 ##
 
