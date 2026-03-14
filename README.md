@@ -8,6 +8,10 @@
 
 COLAR FOTO PRINT AQUI
 
+📌   Realizamos uma segunda atividade com os mesmos propósitos, porém, analisando uma nova base de dados.
+
+COLAR FOTO PRINT AQUI
+
 ##
 
 ### 📅 12/03/2026 - Aprimoramentos visuais no tratamento de dados - Microsoft Excel
