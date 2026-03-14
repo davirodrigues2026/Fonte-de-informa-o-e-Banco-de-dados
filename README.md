@@ -3,6 +3,13 @@
 
 ##
 
+### 📅 13/03/2026 - Utilização de gráficos dinâmicos - Microsoft Excel
+📌 Nesta atividade, realizada no dia 13/03/2026, utilizamos novas fórmulas no Microsoft Excel para tratamento dos dados extraídos. Foi utilizado SOMA.SE e CONT.VALORES para filtrar os dados contidos abaixo. Após isso, foi criado um gráfico personalizado exponencial para divulgação desses dados.
+
+COLAR FOTO PRINT AQUI
+
+##
+
 ### 📅 12/03/2026 - Aprimoramentos visuais no tratamento de dados - Microsoft Excel
 📌 Nesta atividade, realizada no dia 12/03/2026, realizamos melhorias visuais no gráfico trabalhado na aula anterior com novos conceitos apresentados em sala, pelo vídeo: 31 dicas sobre Visualização de dados - Baseado no livro "StoryTelling com dados"
 
