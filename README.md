@@ -6,11 +6,11 @@
 ### 📅 13/03/2026 - Utilização de gráficos dinâmicos - Microsoft Excel
 📌 Nesta atividade, realizada no dia 13/03/2026, utilizamos novas fórmulas no Microsoft Excel para tratamento dos dados extraídos. Foi utilizado SOMA.SE e CONT.VALORES para filtrar os dados contidos abaixo. Após isso, foi criado um gráfico personalizado exponencial para divulgação desses dados.
 
-COLAR FOTO PRINT AQUI
+<img width="733" height="413" alt="Análise_pagamento_13-03" src="https://github.com/user-attachments/assets/2975a649-8bac-4bf4-9534-f501f5fffbfb" />
 
 📌   Realizamos uma segunda atividade com os mesmos propósitos, porém, analisando uma nova base de dados.
 
-COLAR FOTO PRINT AQUI
+<img width="733" height="413" alt="Gráficos dinâmicos - 13-03 (1)" src="https://github.com/user-attachments/assets/5e8cd4ee-5295-4b11-a3b0-b0a95af6855a" />
 
 ##
 
