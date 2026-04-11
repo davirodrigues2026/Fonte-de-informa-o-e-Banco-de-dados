@@ -1,8 +1,7 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
-### 📅 10/04/2026 - Trabalhando com bases de dados abertas
-📌 Nesta atividade, realizada no dia 10/04/2026, trabalhamos em cima de bases de dados abertas disponibilizadas pelo governo do estado. Foi utilizado dados referentes a educação dos cursos superiores em um período de 2019 à 2023.
+
 
 <img width="733" height="413" alt="Captura de tela 2026-04-10 220002" src="https://github.com/user-attachments/assets/510db35d-c97d-4be9-82dd-900a7fa8142d" />
 
@@ -13,6 +12,13 @@
 <img width="733" height="413" alt="image" src="https://github.com/user-attachments/assets/54f627a6-b6f7-4a2b-b5a4-024ffe806532" />
 
 ##
+
+### 📅 29/03/2026 - Aprendendo fundamentos do Python
+📌 Nesta atividade, realizada no dia 29/03/2026, realizei um curso online de horas complementares pela plataforma "Aprenda" com os princópios do Python.
+
+<img width="733" height="1280" alt="image" src="https://github.com/user-attachments/assets/628923e2-e2f7-418a-9834-0a5a75ecf003" />
+
+
 
 ### 📅 13/03/2026 - Utilização de gráficos dinâmicos - Microsoft Excel
 📌 Nesta atividade, realizada no dia 13/03/2026, utilizamos novas fórmulas no Microsoft Excel para tratamento dos dados extraídos. Foi utilizado SOMA.SE e CONT.VALORES para filtrar os dados contidos abaixo. Após isso, foi criado um gráfico personalizado exponencial para divulgação desses dados.
