@@ -1,7 +1,8 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
-
+### 📅 10/04/2026 - Bases de Dados abertos
+📌 Nesta atividade, realizada no dia 10/04/2026, utilizamos uma base de dados disponibilizada pelo governo do estado de São Paulo para trabalhar análises de dados no Microsoft Excel.
 
 <img width="733" height="413" alt="Captura de tela 2026-04-10 220002" src="https://github.com/user-attachments/assets/510db35d-c97d-4be9-82dd-900a7fa8142d" />
 
