@@ -34,7 +34,7 @@
 ##
 
 ### 📅 29/03/2026 - Aprendendo fundamentos do Python
-📌 Nesta atividade, realizada no dia 29/03/2026, realizei um curso online de horas complementares pela plataforma "Aprenda" com os princópios do Python.
+📌 Nesta atividade, realizada no dia 29/03/2026, realizei um curso online de horas complementares pela plataforma "Aprenda" com os princípios do Python.
 
 <img width="733" height="1280" alt="image" src="https://github.com/user-attachments/assets/628923e2-e2f7-418a-9834-0a5a75ecf003" />
 
