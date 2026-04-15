@@ -1,6 +1,33 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
+### 📅 10/04/2026 - Atividade complementar - Bases de Dados abertos
+📌 Nesta atividade, inciada no dia 10/04/2026, trabalhamos com uma nova base de dados dos dados abertos do estado de São Paulo. Aqui, elaboramos mais 5 perguntas para serem respondidas utilizando a base de dados escolhida.
+
+🔴 Planilha utilizada: [10-04-2026 Analise PIB.xlsx](https://github.com/user-attachments/files/26757988/10-04-2026.Analise.PIB.xlsx)
+
+##
+
+<img width="733" height="479" alt="image" src="https://github.com/user-attachments/assets/91dbd537-d894-4581-b2fd-7a4b4b9b0716" />
+
+##
+
+<img width="733" height="355" alt="image" src="https://github.com/user-attachments/assets/57807b7b-a58b-4edf-b931-e084f1dba272" />
+
+##
+
+<img width="733" height="400" alt="image" src="https://github.com/user-attachments/assets/0207a91e-cfe7-4d41-b72b-4e98091ad5fe" />
+
+##
+
+<img width="733" height="498" alt="image" src="https://github.com/user-attachments/assets/0f1f717f-0b49-4949-ae2f-38b94998f9a2" />
+
+##
+
+<img width="733" height="472" alt="image" src="https://github.com/user-attachments/assets/4c8c023e-ddd1-419c-8cd8-24a3b2fff7f7" />
+
+##
+
 ### 📅 10/04/2026 - Bases de Dados abertos
 📌 Nesta atividade, realizada no dia 10/04/2026, utilizamos uma base de dados disponibilizada pelo governo do estado de São Paulo para trabalhar análises de dados no Microsoft Excel.
 
@@ -18,8 +45,6 @@
 📌 Nesta atividade, realizada no dia 29/03/2026, realizei um curso online de horas complementares pela plataforma "Aprenda" com os princópios do Python.
 
 <img width="733" height="1280" alt="image" src="https://github.com/user-attachments/assets/628923e2-e2f7-418a-9834-0a5a75ecf003" />
-
-
 
 ### 📅 13/03/2026 - Utilização de gráficos dinâmicos - Microsoft Excel
 📌 Nesta atividade, realizada no dia 13/03/2026, utilizamos novas fórmulas no Microsoft Excel para tratamento dos dados extraídos. Foi utilizado SOMA.SE e CONT.VALORES para filtrar os dados contidos abaixo. Após isso, foi criado um gráfico personalizado exponencial para divulgação desses dados.
