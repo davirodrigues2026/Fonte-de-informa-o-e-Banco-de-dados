@@ -1,6 +1,13 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
+### 📅 20/04/2026 - Aprendendo fundamentos do Microsoft Power BI
+📌 Nesta atividade, concluída no dia 20/04/2026, realizei um curso online de horas complementares pela plataforma "ENAP - Escola Nacional de Administração Pública" com os princípios e fundamentos do Power BI.
+
+🔴[Certificado_BI_aprimoramento_gestao.pdf](https://github.com/user-attachments/files/26912765/Certificado_BI_aprimoramento_gestao.pdf)
+
+#
+
 ### 📅 10/04/2026 - Atividade complementar - Bases de Dados abertos
 📌 Nesta atividade, inciada no dia 10/04/2026, trabalhamos com uma nova base de dados dos dados abertos do estado de São Paulo. Aqui, elaboramos mais 5 perguntas para serem respondidas utilizando a base de dados escolhida.
 
