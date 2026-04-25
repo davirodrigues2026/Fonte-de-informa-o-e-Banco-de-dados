@@ -8,8 +8,9 @@
 
 
 ### 📅 23/04/2026 - Criando visualizações no Power BI
-📌 Nesta atividade, concluída no dia 23/04/2026, -- CONCLUIR --
+📌 Nesta atividade, concluída no dia 23/04/2026, criamos nossa primeira visualização de dados no Microsoft Power BI com a base de dados do portal da transparência da prefeitura de São José dos Campos.
 
+<img width="903" height="340" alt="image" src="https://github.com/user-attachments/assets/93b308fb-cdb9-4cc2-b845-eb161958a019" />
 #
 
 ### 📅 20/04/2026 - Aprendendo fundamentos do Microsoft Power BI
