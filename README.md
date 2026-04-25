@@ -2,7 +2,11 @@
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
 ### 📅 24/04/2026 - Desenvolvendo mais habilidades nas visualizações de dados no Power BI
-📌 Nesta atividade, concluída no dia 24/04/2026, -- CONCLUIR --
+📌 Nesta atividade, concluída no dia 24/04/2026, aprofundamos na criação de visuais no Power BI. Aqui, aprendemos a funcionalidade de criação de botões com figuras ilustrativas para realizar a filtragem dos dados, facilitando a visualização dos segmentos dos dados.
+
+🔴Arquivo pode ser encontrado como "matricula_ensino_superior_24-04".
+
+<img width="606" height="330" alt="image" src="https://github.com/user-attachments/assets/8e678b85-bab2-47af-9de1-6ac388ae86d0" />
 
 #
 
