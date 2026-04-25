@@ -6,7 +6,7 @@
 
 🔴Arquivo pode ser encontrado como "matricula_ensino_superior_24-04".
 
-<img width="606" height="330" alt="image" src="https://github.com/user-attachments/assets/8e678b85-bab2-47af-9de1-6ac388ae86d0" />
+<img width="609" height="378" alt="image" src="https://github.com/user-attachments/assets/8c6d8e74-63d7-4e98-8dac-c45c21e04c74" />
 
 #
 
