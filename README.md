@@ -4,10 +4,13 @@
 ### 📅 20/04/2026 - 
 📌 Nesta atividade, concluída no dia 24/04/2026, -- CONCLUIR --
 
+#
+
+
 ### 📅 20/04/2026 - Criando visualizações no Power BI
 📌 Nesta atividade, concluída no dia 23/04/2026, -- CONCLUIR --
 
-
+#
 
 ### 📅 20/04/2026 - Aprendendo fundamentos do Microsoft Power BI
 📌 Nesta atividade, concluída no dia 20/04/2026, realizei um curso online de horas complementares pela plataforma "ENAP - Escola Nacional de Administração Pública" com os princípios e fundamentos do Power BI.
