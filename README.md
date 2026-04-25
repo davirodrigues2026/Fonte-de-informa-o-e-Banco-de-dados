@@ -17,7 +17,7 @@
 🔴Arquivo pode ser encontrado como "Introducao_BI_25-04".
 
 <img width="903" height="340" alt="image" src="https://github.com/user-attachments/assets/93b308fb-cdb9-4cc2-b845-eb161958a019" />
-#
+
 
 ### 📅 20/04/2026 - Aprendendo fundamentos do Microsoft Power BI
 📌 Nesta atividade, concluída no dia 20/04/2026, realizei um curso online de horas complementares pela plataforma "ENAP - Escola Nacional de Administração Pública" com os princípios e fundamentos do Power BI.
