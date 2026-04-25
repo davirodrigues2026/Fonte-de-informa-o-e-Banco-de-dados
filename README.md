@@ -1,13 +1,13 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
-### 📅 20/04/2026 - 
+### 📅 24/04/2026 - Desenvolvendo mais habilidades nas visualizações de dados no Power BI
 📌 Nesta atividade, concluída no dia 24/04/2026, -- CONCLUIR --
 
 #
 
 
-### 📅 20/04/2026 - Criando visualizações no Power BI
+### 📅 23/04/2026 - Criando visualizações no Power BI
 📌 Nesta atividade, concluída no dia 23/04/2026, -- CONCLUIR --
 
 #
