@@ -1,6 +1,16 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
+### 📅 30/04/2026 - Power BI - Painel de desempenho dos setores econômicos
+
+📌 Nesta atividade, concluída no dia 30/04/2026, desenvolvi um novo painel BI com informações de uma nova base de dados. Neste caso, foi utilizada a base de desempenho dos setores econômicos, disponíveis nos dados abertos do estado de São Paulo.
+
+<img width="1328" height="744" alt="Captura de tela 2026-04-30 210220" src="https://github.com/user-attachments/assets/e82b6278-9307-450b-98dc-0195d5d280ef" />
+
+🔴Arquivo pode ser encontrado como "Painel_Desempenho_Setores_Economicos_30_04".
+
+#
+
 ### 📅 24/04/2026 - Desenvolvendo mais habilidades nas visualizações de dados no Power BI
 📌 Nesta atividade, concluída no dia 24/04/2026, aprofundamos na criação de visuais no Power BI. Aqui, aprendemos a funcionalidade de criação de botões com figuras ilustrativas para realizar a filtragem dos dados, facilitando a visualização dos segmentos dos dados.
 
