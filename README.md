@@ -5,9 +5,9 @@
 
 📌 Nesta atividade, concluída no dia 30/04/2026, desenvolvi um novo painel BI com informações de uma nova base de dados. Neste caso, foi utilizada a base de desempenho dos setores econômicos, disponíveis nos dados abertos do estado de São Paulo.
 
-<img width="1328" height="744" alt="Captura de tela 2026-04-30 210220" src="https://github.com/user-attachments/assets/e82b6278-9307-450b-98dc-0195d5d280ef" />
-
 🔴Arquivo pode ser encontrado como "Painel_Desempenho_Setores_Economicos_30_04".
+
+<img width="1328" height="744" alt="Captura de tela 2026-04-30 210220" src="https://github.com/user-attachments/assets/e82b6278-9307-450b-98dc-0195d5d280ef" />
 
 #
 
