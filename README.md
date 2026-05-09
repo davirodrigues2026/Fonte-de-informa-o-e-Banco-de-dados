@@ -1,6 +1,19 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
+### 📅 08/05/2026 - Power BI - Painel dos dados de empregos formais
+
+📌 Nesta atividade, concluída no dia 08/05/2026, utilizamos a base de dados abertas do estado de São Paulo para construir um dashboard com os dados de empregos formais. Após a construção do arquivo, utilizamos os dados para responder duas perguntas:
+
+- Em qual ano e mês houve o menor saldo de movimentação? E o maior?
+- Em qual ano a média de movimentação foi maior que zero?
+
+🔴Arquivo pode ser encontrado como "Dados_Empregos_Formais_08-05".
+
+<img width="1282" height="715" alt="image" src="https://github.com/user-attachments/assets/a8829ca5-f876-4819-abfa-69b87174f075" />
+
+#
+
 ### 📅 30/04/2026 - Power BI - Painel de desempenho dos setores econômicos
 
 📌 Nesta atividade, concluída no dia 30/04/2026, desenvolvi um novo painel BI com informações de uma nova base de dados. Neste caso, foi utilizada a base de desempenho dos setores econômicos, disponíveis nos dados abertos do estado de São Paulo.
