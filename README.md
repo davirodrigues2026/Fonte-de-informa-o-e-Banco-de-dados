@@ -1,6 +1,16 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
+### 📅 14/05/2026 - Power BI - Gráfico de regressão linear
+
+📌 Nesta atividade, concluída no dia 14/05/2026, utilizamos uma relação de dados entre vendas de sorvetes x temperatura, para a construção de um gráfico de regressão linear.
+
+🔴Arquivo pode ser encontrado como "Vendas_Sorvete_Temperatura_14-05".
+
+<img width="1462" height="816" alt="Captura de tela 2026-05-14 211840" src="https://github.com/user-attachments/assets/d2e11c95-5db3-4db1-acfa-1eeafc83efe9" />
+
+#
+
 ### 📅 08/05/2026 - Power BI - Painel dos dados de empregos formais
 
 📌 Nesta atividade, concluída no dia 08/05/2026, utilizamos a base de dados abertas do estado de São Paulo para construir um dashboard com os dados de empregos formais. Após a construção do arquivo, utilizamos os dados para responder duas perguntas:
