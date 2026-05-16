@@ -1,7 +1,18 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
-### 📅 15/05/2026 - Gráfico de regressão linear utilizando python
+### 📅 15/05/2026 - Gráfico de regressão linear utilizando python - Consumo de cervejas em SP
+
+📌 Nesta atividade, concluída no dia 15/05/2026, utilizamos o google colab para construção de uma regressão linear utilizando a linguagem de programação python.
+
+🔴Arquivo pode ser encontrado como [15_05_Banco_de_Dados.ipynb](https://github.com/davirodrigues2026/Fonte-de-informa-o-e-Banco-de-dados/blob/main/Consumo_Cerveja_15_05.ipynb
+).
+
+<img width="910" height="560" alt="image" src="https://github.com/user-attachments/assets/3035979f-2ac9-40f9-862a-9f3e15fdd66e" />
+
+#
+
+### 📅 15/05/2026 - Gráfico de regressão linear utilizando python - Vendas de sorvete por aumento de temperatura
 
 📌 Nesta atividade, concluída no dia 15/05/2026, utilizamos o google colab para construção de uma regressão linear utilizando a linguagem de programação python.
 
