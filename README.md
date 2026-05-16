@@ -12,6 +12,10 @@
 
 #
 
+<img width="1579" height="778" alt="image" src="https://github.com/user-attachments/assets/1ba498ea-0f58-438a-9efe-a6f7d4952da0" />
+
+#
+
 ### 📅 15/05/2026 - Gráfico de regressão linear utilizando python - Vendas de sorvete por aumento de temperatura
 
 📌 Nesta atividade, concluída no dia 15/05/2026, utilizamos o google colab para construção de uma regressão linear utilizando a linguagem de programação python.
