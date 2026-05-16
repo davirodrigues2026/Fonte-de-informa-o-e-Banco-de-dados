@@ -5,9 +5,9 @@
 
 📌 Nesta atividade, concluída no dia 15/05/2026, utilizamos o google colab para construção de uma regressão linear utilizando a linguagem de programação python.
 
-🔴Arquivo pode ser encontrado como "Vendas_Sorvete_Temperatura_14-05".
+🔴Arquivo pode ser encontrado como "15_05_Banco_de_Dados.ipynb".
 
-<img width="1462" height="816" alt="Captura de tela 2026-05-14 211840" src="https://github.com/user-attachments/assets/d2e11c95-5db3-4db1-acfa-1eeafc83efe9" />
+<img width="896" height="558" alt="image" src="https://github.com/user-attachments/assets/429a376e-b6c2-4a10-8827-79990038cccc" />
 
 #
 
