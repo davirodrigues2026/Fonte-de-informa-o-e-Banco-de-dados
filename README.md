@@ -1,6 +1,16 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
+### 📅 22/05/2026 - Utilização de tabela dimensional - Relacionamentos entre consultas
+
+📌 Nesta atividade, concluída no dia 22/05/2026, utilizamos duas consultas de dados para integrarmos uma à outra com relacionamentos de tabelas.
+
+🔴Arquivo pode ser encontrado como 
+
+<img width="1122" height="631" alt="image" src="https://github.com/user-attachments/assets/3211f088-cb1b-4700-878f-473c3ce4cdd9" />
+
+#
+
 ### 📅 15/05/2026 - Gráfico de regressão linear utilizando python - Consumo de cervejas em SP
 
 📌 Nesta atividade, concluída no dia 15/05/2026, utilizamos o google colab para construção de uma regressão linear utilizando a linguagem de programação python.
