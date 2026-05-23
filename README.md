@@ -5,7 +5,7 @@
 
 📌 Nesta atividade, concluída no dia 22/05/2026, utilizamos duas consultas de dados para integrarmos uma à outra com relacionamentos de tabelas.
 
-🔴Arquivo pode ser encontrado como 
+🔴Arquivo pode ser encontrado como https://github.com/davirodrigues2026/Fonte-de-informa-o-e-Banco-de-dados/blob/main/Tabela_Dimensional_22-05.pbix
 
 <img width="1122" height="631" alt="image" src="https://github.com/user-attachments/assets/3211f088-cb1b-4700-878f-473c3ce4cdd9" />
 
