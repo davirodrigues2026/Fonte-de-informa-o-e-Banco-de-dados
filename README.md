@@ -5,7 +5,11 @@
 
 📌Arquivos gerados durante a apresentação disponibilizados para consulta.
 
+https://github.com/davirodrigues2026/Fonte-de-informa-o-e-Banco-de-dados/blob/main/V%C3%ADdeo_Prova.mp4
 
+https://github.com/davirodrigues2026/Fonte-de-informa-o-e-Banco-de-dados/blob/main/Nupicidade_Prova.xlsx
+
+https://github.com/davirodrigues2026/Fonte-de-informa-o-e-Banco-de-dados/blob/main/An%C3%A1lise_Taxa_Nupicidade.pbix
 
 #
 
