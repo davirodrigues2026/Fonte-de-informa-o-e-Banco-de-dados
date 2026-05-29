@@ -1,6 +1,14 @@
 ## Disciplina: Fontes de informação e banco de dados - 2026
 ### 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
+## 📅 29/05/2026 - Conteúdos realizados - Avaliação
+
+📌Arquivos gerados durante a apresentação disponibilizados para consulta.
+
+
+
+#
+
 ### 📅 22/05/2026 - Utilização de tabela dimensional - Relacionamentos entre consultas
 
 📌 Nesta atividade, concluída no dia 22/05/2026, utilizamos duas consultas de dados para integrarmos uma à outra com relacionamentos de tabelas.
